@@ -56,13 +56,4 @@
 
 .font-Rubik {
     font-family: 'Rubik';
-}h1 {
-    font-family: Rubik;
-    src: url('font\Rubik-bold.ttf');
-    font-weight: bold;
-    font-style: normal;
-}
-.container {
-    padding-left: 5% !important;
-    padding-right: 5% !important;
 }

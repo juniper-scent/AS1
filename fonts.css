@@ -1,4 +1,6 @@
 @font-face {
-    font-family: Rubik;
-    src: C:\Users\User\Desktop\AS1\font\Rubik-Black.ttf
-
+            font-family: 'Rubik';
+        src: url('font\Rubik-Black.ttf');
+        font-weight: bold;
+        font-style: normal;
+}
